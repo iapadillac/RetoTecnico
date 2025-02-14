@@ -6,7 +6,7 @@ Backend: Java con Spring Boot
 link de repositorio del backend: https://github.com/iapadillac/backend
 
 Frontend: Angular
-link de repositorio del backend: https://github.com/iapadillac/pp
+link de repositorio del Frontend: https://github.com/iapadillac/pp
 Base de datos: postgres(se encuentra en este repositorio)
 
 Requisitos:
