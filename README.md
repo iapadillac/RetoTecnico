@@ -7,7 +7,7 @@ link de repositorio del backend: https://github.com/iapadillac/backend
 
 Frontend: Angular
 link de repositorio del backend: https://github.com/iapadillac/pp
-Base de datos: postgres
+Base de datos: postgres(se encuentra en este repositorio)
 
 Requisitos:
 cargar la base de datos con el nombre: eventosboletos
