@@ -2,8 +2,11 @@
 reto tecnico para Kuntury
 
 Detalles del reto técnico:
-Backend: Java con Spring Boot
+Backend: Java con Spring Boot 
+link de repositorio del backend: https://github.com/iapadillac/backend
+
 Frontend: Angular
+link de repositorio del backend: https://github.com/iapadillac/pp
 Base de datos: postgres
 
 Requisitos:
